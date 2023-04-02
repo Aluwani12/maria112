@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url(images/istockphoto-1166892018-612x612.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.logo{
+ font-size: 60px;
+ color: pink;
+ text-decoration: solid;
+ text-shadow: 2px 2px;
+ font-style: italic;
+}
+nav{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 2% 6%;
+
+}
+.menubar{
+    flex: 1;
+    text-align: right;
+}
+.menubar ul li{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    padding: 20px 25px;
+}
+.content{
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+}
+h1{
+    font-size: 90px;
+    color: pink;
+    padding: 1s0px;
+}
+.par{
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+}
+.more{
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+    color: aqua;
+    text-decoration: solid;
+}
+.aboutheader{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url(images/istockphoto-618831960-612x612.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.aboutinfo{
+    text-align: center;
+
+}
+h2{
+    font-size: 60px;
+    color: pink;
+    padding: 40px;
+    margin: 20px;
+}
+.paraB{
+    font-size: 40px;
+    font-style: italic;
+    color: pink;
+    padding: 10px;
+    margin: 10px;
+}
+.paraB2{
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+
+}
+.serviceheader{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url(images/preschool-boy-girl-playing-floor-educational-toys-children-home-daycare-toddlers-134104157.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.SERVICE11{
+    text-align: center;
+    color: lightblue;
+    font-size: 50px;
+    font-style: italic;
+}
+.service12{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+h4{
+    font-size: 30px;
+    color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+}
+.pcarriculum{
+    font-size: 20px;
+    font-weight: bold;
+}
+.contactheader{
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+iframe{
+    width: 100%;
+}
+.info{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.h5{
+    font-size: 40px;
+    color: black;
+    font-style: italics;
+}
+
+.parcontact{
+    font-size: 20px;
+    color: pink;
+    font-weight: bolds;
+}
+.form{
+    text-align: center;
+}
+h6{
+    font-size: 40px;
+    color: lightblue;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+.type{
+    padding: 10px;
+    margin: 12px;
+}
+.btn{
+    margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    align-items: center;
+    color: lightblue;
+    width: 100px;
+}
